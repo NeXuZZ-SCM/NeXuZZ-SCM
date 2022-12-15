@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Texto alternativo](/1667918202147.gif)
+![Texto alternativo](https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF)
