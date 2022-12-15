@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Texto alternativo](/1667918202147.gif)
+![Texto alternativo](/1667918202147.gif)<br>
 <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50">
 
