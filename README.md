@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Texto alternativo](/gif.gif)
+![Texto alternativo](/1667918202147.gif)
