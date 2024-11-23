@@ -19,6 +19,6 @@
 
 <img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="350">
 
-## 🌱 **Actualmente aprendiendo**
+🌱 **Actualmente aprendiendo**
 
 NGINX - Despliegues de contenedores docker en linux.
