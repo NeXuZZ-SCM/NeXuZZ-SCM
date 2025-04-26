@@ -6,22 +6,9 @@
 
 Lic. Cristian M. Squazzin | Líder Técnico .NET & Instructor de Hacking Ético
 
-¡Hola! Soy Cristian Squazzin, Licenciado en Informática y apasionado por la tecnología. Actualmente soy Líder Técnico en desarrollo Full Stack .NET, especializado en soluciones backend robustas y modernas. Además, me dedico a enseñar Hacking Ético, ayudando a otros a entender la ciberseguridad desde un enfoque práctico y responsable. Mi objetivo es seguir creciendo en el campo de la ciberseguridad, protegiendo sistemas y creando un entorno digital más seguro.
+¡Hola! 👋 Soy Cristian Squazzin, Licenciado en Informática y apasionado por la tecnología. Actualmente soy Líder Técnico .NET, especializado en soluciones backend robustas y modernas. Además, me dedico a enseñar Hacking Ético, ayudando a otros a entender la ciberseguridad desde un enfoque práctico y responsable. Mi objetivo es seguir creciendo en el campo de la ciberseguridad, protegiendo sistemas y creando un entorno digital más seguro.
 
-Tecnologías con las que trabajo:
-
-.NET | Angular | Docker | SQL Server | IIS | Kali Linux | Burp Suite
-
-Actualmente:
-
-Liderando equipos de desarrollo .NET y formando a futuros profesionales en hacking ético.
-
-Aspiración:
-
-Contribuir al mundo de la ciberseguridad, defendiendo sistemas contra amenazas digitales.
-¡Hola! 👋 Soy **Cristian Sguazzin**, **Licenciado en Informática** 🎓 y apasionado **Full Stack .NET Developer**. Me especializo en construir soluciones **backend robustas**, **frontends modernos** y arquitecturas escalables utilizando **.NET** y **Angular**.
-
----
+<br>
 
 💻 **Tecnologías con las que trabajo**
 
@@ -36,8 +23,19 @@ Contribuir al mundo de la ciberseguridad, defendiendo sistemas contra amenazas d
   <img src="https://img.shields.io/badge/Hacking%20-blue?style=for-the-badge&logo=hackaday" alt="Hacking" style="height: 40px;" />
 </div>
 
-<img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="350">
+📆 Actualmente:
 
+Liderando equipos de desarrollo .NET y formando a futuros profesionales en hacking ético.
+
+🚩 Aspiración:
+
+Contribuir al mundo de la ciberseguridad 🔐, defendiendo 🛡️ sistemas contra amenazas 🦑 digitales.
+
+---
+
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIyZDE5MWQwZW5yZWUxZGo4NjVzMWEwM3ViemJwbjFrd3BmbDBtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtCAXWS94FZbWiKmKH/giphy.gif" width="250">
 🌱 **Actualmente aprendiendo**
-
+Infrastructure as Code (IaC) 🏗️
 NGINX - Despliegues de contenedores docker en linux.
+<br>
+
