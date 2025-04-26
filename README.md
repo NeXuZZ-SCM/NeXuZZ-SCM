@@ -12,16 +12,16 @@
 
 <p align="left">
   <a href="https://www.udemy.com/user/cristian-sguazzin">
-      <img src="https://img.shields.io/badge/Udemy-Lic._Cristian_Sguazzin-A435F0?logo=udemy&logoColor=white&style=for-the-badge" alt=".NET" style="height: 25px;" >
+      <img src="https://img.shields.io/badge/Udemy-Lic._Cristian_Sguazzin-A435F0?logo=udemy&logoColor=white&style=for-the-badge" alt=".NET" style="height: 30px;" >
   </a><br>
   <a href="https://www.youtube.com/@Lic.CristianSguazzin">
-      <img src="https://img.shields.io/badge/YouTube-Lic._Cristian_Sguazzin-FF0000?logo=youtube&logoColor=red&style=for-the-badge" alt=".NET" style="height: 25px;" >
+      <img src="https://img.shields.io/badge/YouTube-Lic._Cristian_Sguazzin-FF0000?logo=youtube&logoColor=red&style=for-the-badge" alt=".NET" style="height: 30px;" >
   </a><br>
   <a href="https://www.instagram.com/cristian_sguazzin">
-      <img src="https://img.shields.io/badge/Instagram-Lic._Cristian_Sguazzin-E4405F?logo=instagram&logoColor=orange&style=for-the-badge" alt=".NET" style="height: 25px;" >
+      <img src="https://img.shields.io/badge/Instagram-Lic._Cristian_Sguazzin-E4405F?logo=instagram&logoColor=orange&style=for-the-badge" alt=".NET" style="height: 30px;" >
   </a><br>
     <a href="https://www.linkedin.com/in/cristian-sguazzin">
-      <img src="https://img.shields.io/badge/LinkedIn-Lic._Cristian_Sguazzin-0A66C2?logo=linkedin&logoColor=blue&style=for-the-badge" alt=".NET" style="height: 25px;" >
+      <img src="https://img.shields.io/badge/LinkedIn-Lic._Cristian_Sguazzin-0A66C2?logo=linkedin&logoColor=blue&style=for-the-badge" alt=".NET" style="height: 30px;" >
   </a><br>
 </p>
 
