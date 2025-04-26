@@ -8,7 +8,24 @@
   </div>
   <div style="clear: both;"></div>
 </div>
-<br><br><br><br><br>
+<br><br>
+
+<p align="left">
+  <a href="https://www.udemy.com/user/cristian-sguazzin">
+      <img src="https://img.shields.io/badge/Udemy-cristian__sguazzin-A435F0?logo=udemy&logoColor=white&style=for-the-badge" alt=".NET" style="height: 35px;" >
+  </a><br>
+  <a href="https://www.youtube.com/@cristian_sguazzin">
+      <img src="https://img.shields.io/badge/YouTube-cristian__sguazzin-FF0000?logo=youtube&logoColor=red&style=for-the-badge" alt=".NET" style="height: 35px;" >
+  </a><br>
+  <a href="https://www.instagram.com/cristian_sguazzin">
+      <img src="https://img.shields.io/badge/Instagram-cristian__sguazzin-E4405F?logo=instagram&logoColor=orange&style=for-the-badge" alt=".NET" style="height: 35px;" >
+  </a><br>
+    <a href="https://www.linkedin.com/in/cristian-sguazzin">
+      <img src="https://img.shields.io/badge/LinkedIn-cristian__sguazzin-0A66C2?logo=linkedin&logoColor=blue&style=for-the-badge" alt=".NET" style="height: 35px;" >
+  </a><br>
+</p>
+
+
 
 ### 💻 **Tecnologías con las que trabajo**
 
