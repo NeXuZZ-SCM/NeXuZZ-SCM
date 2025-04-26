@@ -6,7 +6,10 @@
 
 Lic. Cristian M. Squazzin | Líder Técnico .NET & Instructor de Hacking Ético
 
+<div align="justify"> 
 ¡Hola! 👋 Soy Cristian Squazzin, Licenciado en Informática y apasionado por la tecnología. Actualmente soy Líder Técnico .NET, especializado en soluciones backend robustas y modernas. Además, me dedico a enseñar Hacking Ético, ayudando a otros a entender la ciberseguridad desde un enfoque práctico y responsable. Mi objetivo es seguir creciendo en el campo de la ciberseguridad, protegiendo sistemas y creando un entorno digital más seguro.
+</div>
+
 
 <br><br>
 
@@ -32,10 +35,13 @@ Liderando equipos de desarrollo .NET y formando a futuros profesionales en hacki
 Contribuir al mundo de la ciberseguridad 🔐, defendiendo 🛡️ sistemas contra amenazas 🦑 digitales.
 
 ---
-
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIyZDE5MWQwZW5yZWUxZGo4NjVzMWEwM3ViemJwbjFrd3BmbDBtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtCAXWS94FZbWiKmKH/giphy.gif" width="250">
+<div align="center">
 🌱 **Actualmente aprendiendo**
 Infrastructure as Code (IaC) 🏗️
 NGINX - Despliegues de contenedores docker en linux.
-<br>
+<br><br>
+<img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIyZDE5MWQwZW5yZWUxZGo4NjVzMWEwM3ViemJwbjFrd3BmbDBtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtCAXWS94FZbWiKmKH/giphy.gif" width="250">
+</div>
+
+
 
