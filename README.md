@@ -1,7 +1,7 @@
 
 # 🌌 **Lic. Cristian M. Sguazzin** | Full Stack .NET Developer 🚀
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="padding:0.1 rem">
 
 
 Lic. Cristian M. Squazzin | Líder Técnico .NET & Instructor de Hacking Ético
