@@ -12,7 +12,7 @@ Lic. Cristian M. Squazzin | Líder Técnico .NET & Instructor de Hacking Ético
 <br>
 <br>
 <br><br><br><br>
-##💻 **Tecnologías con las que trabajo**
+### 💻 **Tecnologías con las que trabajo**
 
 <div align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" style="height: 40px;" />
