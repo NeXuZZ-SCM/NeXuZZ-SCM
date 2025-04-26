@@ -9,10 +9,9 @@ Lic. Cristian M. Squazzin | Líder Técnico .NET & Instructor de Hacking Ético
 <div align="justify"> 
 ¡Hola! 👋 Soy Cristian Squazzin, Licenciado en Informática y apasionado por la tecnología. Actualmente soy Líder Técnico .NET, especializado en soluciones backend robustas y modernas. Además, me dedico a enseñar Hacking Ético, ayudando a otros a entender la ciberseguridad desde un enfoque práctico y responsable. Mi objetivo es seguir creciendo en el campo de la ciberseguridad, protegiendo sistemas y creando un entorno digital más seguro.
 </div>
-
-
-<br><br>
-
+<br>
+<br>
+<br>
 💻 **Tecnologías con las que trabajo**
 
 <div align="center">
