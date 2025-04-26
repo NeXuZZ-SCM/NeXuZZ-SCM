@@ -1,5 +1,5 @@
 
-# 🌌 **Lic. Cristian Sguazzin | Líder Técnico .NET & Instructor de Hacking Ético 🚀
+# 🌌 **Lic. Cristian Sguazzin | Líder Técnico .NET & Instructor de Hacking Ético** 🚀
 <div>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacking GIF" align="right" style="max-width: 350px; width: 100%; margin-left: 5px;">
   <div align="justify">
