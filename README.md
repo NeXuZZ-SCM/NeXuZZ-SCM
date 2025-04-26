@@ -1,12 +1,12 @@
 
 # 🌌 **Lic. Cristian M. Sguazzin** | Full Stack .NET Developer 🚀
-
+<div align="justify"> 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" style="padding:0.1 rem">
 
 
 Lic. Cristian M. Squazzin | Líder Técnico .NET & Instructor de Hacking Ético
 
-<div align="justify"> 
+
 ¡Hola! 👋 Soy Cristian Squazzin, Licenciado en Informática y apasionado por la tecnología. Actualmente soy Líder Técnico .NET, especializado en soluciones backend robustas y modernas. Además, me dedico a enseñar Hacking Ético, ayudando a otros a entender la ciberseguridad desde un enfoque práctico y responsable. Mi objetivo es seguir creciendo en el campo de la ciberseguridad, protegiendo sistemas y creando un entorno digital más seguro.
 </div>
 <br>
