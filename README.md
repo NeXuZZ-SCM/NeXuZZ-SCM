@@ -32,8 +32,8 @@ Contribuir al mundo de la ciberseguridad, defendiendo sistemas contra amenazas d
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="IIS" />
   <img src="https://img.shields.io/badge/Burp%20Suite-gray?style=for-the-badge&logo=burp-suite" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kali-linux" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Hacking%20Linux-blue?style=for-the-badge&logo=hackaday" alt="Hacking" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kali-linux" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Hacking%20blue?style=for-the-badge&logo=hackaday" alt="Hacking" />
 </div>
 
 <img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="350">
